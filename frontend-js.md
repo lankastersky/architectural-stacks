@@ -88,11 +88,11 @@ Module Bundling, on a high level, is a process of integrating together a group o
 Source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language
 - [Babel](https://babeljs.io) - converts new JS code into old ones
 
-## Other
-- Flexbox
-- Scss
-- Stylus
-- graphql
+## CSS libraries
+- Flexbox - new layout mode in CSS3
+- [Sass](https://sass-lang.com/) - CSS pre-processor with syntax advancements (older syntax)
+- Scss - CSS extension, preprocessor which lets you use features that aren’t a part of the wider CSS standard yet, and provides better workflows for maintaining your stylesheets
+- [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich CSS language built for nodejs
 
 # Terminology
 - Tree shaking - in javascript context, refers to dead code elimination
