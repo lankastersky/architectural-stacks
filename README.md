@@ -10,16 +10,21 @@ Contains cheat sheets of some architecture stacks I worked with or researched ab
 - Testing frameworks
 
 ## The backend stacks
+- [Common roadmaps](backend.md)
 - Java
 - Node.js
 - Python
+- PHP
+- .Net
 
 ## The frontend stacks
 - Android
 - [JavaScript](frontend-js.md)
 - iOS
+- Unity
 
 ## Other stacks:
+- [DevOps](devops.md)
 - Machine Learning
 
 
