@@ -6,7 +6,9 @@
 - Chai is one of the most popular open-source assertion libraries used with Mocha
 - Sinon - a popular mocking and spy library
 - Jest - test framework, comes with built-in mocking and assertion abilities, runs your tests concurrently in parallel, providing a smoother, faster test run
-- Phantom - 
+- [PhantomJS](http://phantomjs.org/)  - headless Web Kit used for automating web page interaction. 2018: ABANDONED
+- [Selenium](https://www.seleniumhq.org/) - open source web-based automation tool for web applications across different browsers and platforms
+  - [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/) - enables you to use a programming language in creating your test scripts (not possible in Selenium IDE)
 
 # Package managers
 - [Npm](https://www.npmjs.com) - Node Package Manager
