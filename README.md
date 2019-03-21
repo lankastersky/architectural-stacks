@@ -7,7 +7,7 @@ The backend stacks:
 
 The frontend stacks:
 - Android
-- [JavaScript](#frontend-js)
+- [JavaScript](frontend-js.md)
 - iOS
 
 Other stacks:
