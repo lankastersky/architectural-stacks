@@ -4,15 +4,16 @@
 - [Development frameworks](#development-frameworks)
 - [Guidelines](#guidelines)
 - [IDEs](#ides)
+- [Libraries](#libraries)
+  - [State managers](#state-managers)
+  - [Testing frameworks](#testing-frameworks)
+    - [Testing stacks](#testing-stacks)
+  - [Transpilers](#transpilers)
 - [Package managers](#package-managers)
 - [Roadmaps](#roadmaps)
 - [Terminology](#terminology)
   - [JavaScript](#javascript)
-- [Testing frameworks](#testing-frameworks)
-  - [Testing stacks](#testing-stacks)
-- [Transpilers](#transpilers)
 - [Version managers](#version-managers)
-- [Other](#other)
 
 
 # Roadmaps
@@ -37,20 +38,6 @@
 # Guidelines
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-# Testing frameworks
-- Karma - a browser test runner
-- Jasmine  - “batteries included” BDD test framework
-- Mocha - not a “complete” test framework, covers the basics and allows developers to extend it with other frameworks
-- Chai is one of the most popular open-source assertion libraries used with Mocha
-- Sinon - a popular mocking and spy library
-- [Jest](https://jestjs.io/) - test framework, comes with built-in mocking and assertion abilities, runs your tests concurrently in parallel, providing a smoother, faster test run
-- [PhantomJS](http://phantomjs.org/)  - headless Web Kit used for automating web page interaction. 2018: ABANDONED
-- [Selenium](https://www.seleniumhq.org/) - open source web-based automation tool for web applications across different browsers and platforms
-  - [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/) - enables you to use a programming language in creating your test scripts (not possible in Selenium IDE)
-- [Headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) - headless Chromium browser, a great tool for automated testing and server environments where you don't need a visible UI shell
-
-## Testing stacks
-- [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - Headless Chrome, karma, mocha, chai
 
 # Package managers
 - [Npm](https://www.npmjs.com) - Node Package Manager
@@ -59,10 +46,6 @@
 # Version managers
 - [Nvm](https://github.com/creationix/nvm) - a Bash script
 - [n](https://github.com/tj/n) - Node module, which can be installed by npm
-
-# Transpilers
-Source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language
-- [Babel](https://babeljs.io) - converts new JS code into old ones
 
 # Build Tools (Bundlers)
 Module Bundling, on a high level, is a process of integrating together a group of modules in a single file so that multiple modules can be sent to the browser in a single bundle (which is good for performance but bad for debugging).
@@ -78,12 +61,34 @@ Module Bundling, on a high level, is a process of integrating together a group o
 - [Visual Studio Code](https://code.visualstudio.com/) - open sourced IDE supporting many languages. Built on top of Webkit
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 
-# Other
-- Redux https://redux.js.org/
-- MobX https://github.com/mobxjs/mobx 
-- Flux https://facebook.github.io/flux/ 
+# Libraries
 
-- Vuex
+## State managers
+- [Flux](https://facebook.github.io/flux/) - application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow
+- [Redux](https://redux.js.org/) - A predictable state container for JavaScript apps
+- [MobX](https://github.com/mobxjs/mobx) - Simple, scalable state management
+- [Vuex](https://vuex.vuejs.org/) - state management pattern + library for Vue.js applications
+
+## Testing frameworks
+- Karma - a browser test runner
+- Jasmine  - “batteries included” BDD test framework
+- Mocha - not a “complete” test framework, covers the basics and allows developers to extend it with other frameworks
+- Chai is one of the most popular open-source assertion libraries used with Mocha
+- Sinon - a popular mocking and spy library
+- [Jest](https://jestjs.io/) - test framework, comes with built-in mocking and assertion abilities, runs your tests concurrently in parallel, providing a smoother, faster test run
+- [PhantomJS](http://phantomjs.org/)  - headless Web Kit used for automating web page interaction. 2018: ABANDONED
+- [Selenium](https://www.seleniumhq.org/) - open source web-based automation tool for web applications across different browsers and platforms
+  - [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/) - enables you to use a programming language in creating your test scripts (not possible in Selenium IDE)
+- [Headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) - headless Chromium browser, a great tool for automated testing and server environments where you don't need a visible UI shell
+
+### Testing stacks
+- [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - Headless Chrome, karma, mocha, chai
+
+## Transpilers
+Source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language
+- [Babel](https://babeljs.io) - converts new JS code into old ones
+
+## Other
 - Flexbox
 - Scss
 - Stylus
