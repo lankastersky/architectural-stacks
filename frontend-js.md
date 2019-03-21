@@ -1,3 +1,5 @@
+# Guidelines
+
 # Testing frameworks
 - Karma - a browser test runner
 - Jasmine  - “batteries included” BDD test framework
@@ -51,3 +53,9 @@ Module Bundling, on a high level, is a process of integrating together a group o
 
 # Terminology
 - Tree shaking - in javascript context, refers to dead code elimination
+
+## JavaScript
+- [Closure](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#3-closure) - inner function, that's accessible outside of its outer function's scope, with its connection to the outer function's variables still intact.
+- [Curring](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#4-currying) - using multiple functions with single arguments, in place of a single function with multiple arguments
+- [Hoisting](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#5-hoisting) - default behavior of moving declarations to the top
+- [Mutation](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#5-hoisting) - referring to the changes that DOM elements went through
