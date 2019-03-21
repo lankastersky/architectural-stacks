@@ -1,3 +1,19 @@
+# TOC
+- [Build tools (Bundlers)](#build-tools-bundlers)
+- [Development frameworks](#development-frameworks)
+- [Guidelines](#guidelines)
+- [IDEs](#ides)
+- [Package managers](#package-managers)
+- [Roadmaps](#roadmaps)
+- [Terminology](#terminology)
+  - [JavaScript](#javascript)
+- [Testing frameworks](#testing-frameworks)
+  - [Testing stacks](#testing-stacks)
+- [Transpilers](#transpilers)
+- [Version managers](#version-managers)
+- [Other](#other)
+
+
 # Roadmaps
 [ManzDev/roadmap-web-developer-2017](https://github.com/ManzDev/roadmap-web-developer-2017) - good collection of detailed roadmaps
 
