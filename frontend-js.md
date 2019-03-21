@@ -29,7 +29,7 @@
 Source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language
 - [Babel](https://babeljs.io) - converts new JS code into old ones
 
-# Bundlers
+# Build Tools (Bundlers)
 Module Bundling, on a high level, is a process of integrating together a group of modules in a single file so that multiple modules can be sent to the browser in a single bundle (which is good for performance but bad for debugging).
 - [Webpack](https://webpack.js.org) - a modular build tool 
 - [Parcel](https://parceljs.org/) - gives you “blazing fast” bundling as it uses multiple worker processes to ensure that the compilation process is executed in parallel on multiple cores without the need of any configuration
@@ -41,6 +41,7 @@ Module Bundling, on a high level, is a process of integrating together a group o
 
 # IDEs
 - [Visual Studio Code](https://code.visualstudio.com/) - open sourced IDE supporting many languages. Built on top of Webkit
+- [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 
 # Other
 - Redux https://redux.js.org/
