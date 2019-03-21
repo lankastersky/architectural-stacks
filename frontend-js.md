@@ -70,16 +70,16 @@ Module Bundling, on a high level, is a process of integrating together a group o
 - [Vuex](https://vuex.vuejs.org/) - state management pattern + library for Vue.js applications
 
 ## Testing frameworks
-- Karma - a browser test runner
-- Jasmine  - “batteries included” BDD test framework
-- Mocha - not a “complete” test framework, covers the basics and allows developers to extend it with other frameworks
-- Chai is one of the most popular open-source assertion libraries used with Mocha
-- Sinon - a popular mocking and spy library
+- [Chai](https://www.chaijs.com/) - open-source BDD / TDD assertion library for node and the browser that can be paired with any javascript testing framework
 - [Jest](https://jestjs.io/) - test framework, comes with built-in mocking and assertion abilities, runs your tests concurrently in parallel, providing a smoother, faster test run
+- [Headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) - tool for automated testing and server environments where you don't need a visible UI shell
+- [Jasmine](https://jasmine.github.io/)  - "batteries included" BDD test framework, does not require a DOM
+- [Karma](https://karma-runner.github.io/latest/index.html) - a browser test runner
+- [Mocha](https://mochajs.org/) - not a "complete" test framework, covers the basics and allows developers to extend it with other frameworks; running on Node.js and in the browser
 - [PhantomJS](http://phantomjs.org/)  - headless Web Kit used for automating web page interaction. 2018: ABANDONED
 - [Selenium](https://www.seleniumhq.org/) - open source web-based automation tool for web applications across different browsers and platforms
   - [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/) - enables you to use a programming language in creating your test scripts (not possible in Selenium IDE)
-- [Headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) - headless Chromium browser, a great tool for automated testing and server environments where you don't need a visible UI shell
+- [Sinon](https://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript. Works with any unit testing framework
 
 ### Testing stacks
 - [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - Headless Chrome, karma, mocha, chai
