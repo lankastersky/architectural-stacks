@@ -1,4 +1,5 @@
 # TOC
+- [Books](#books)
 - [Build tools (Bundlers)](#build-tools-bundlers)
 - [Development frameworks](#development-frameworks)
 - [Guidelines](#guidelines)
@@ -15,7 +16,7 @@
 
 
 # Roadmaps
-[ManzDev/roadmap-web-developer-2017](https://github.com/ManzDev/roadmap-web-developer-2017) - good collection of detailed roadmaps
+- [ManzDev/roadmap-web-developer-2017](https://github.com/ManzDev/roadmap-web-developer-2017) - good collection of detailed roadmaps
 
 - [Frontend technologies, 2017](https://codeforgeek.com/2017/04/become-valuable-full-stack-developer/)
 ![Frontend technologies](https://i0.wp.com/codeforgeek.com/wp-content/uploads/2017/04/front-end-path.png?resize=768%2C980&ssl=1)
@@ -26,7 +27,15 @@
 - Frontend developer skills
 ![Frontend developer skills](https://www.amarinfotech.com/wp-content/uploads/2017/03/which-skill-requires-for-developer.jpg)
 
+# Books
+- [Effective JavaScript by by David Herman, 2012](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
+- [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/) - free
+- [JavaScript: The Definitive Guide by David Flanagan, 2011](https://books.google.com/books?id=4RChxt67lvwC&lpg=PR1&dq=javascript%20the%20definitive%20guide&pg=PR1#v=onepage&q&f=false)
+- [JavaScript: The Good Parts by Douglas Crockford, 2008](https://books.google.com/books?id=PXa2bby0oQ0C&lpg=PP1&dq=JavaScript%3A%20The%20Good%20Parts&pg=PP1#v=onepage&q&f=false)
+- [The Complete JavaScript Reference by Powell, Thomas, Schneider, Fritz (2004)](https://www.amazon.com/JavaScript-Complete-Reference-Schneider-Paperback/dp/B011DBLJP4)
+
 # Guidelines
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 # Testing frameworks
 - Karma - a browser test runner
