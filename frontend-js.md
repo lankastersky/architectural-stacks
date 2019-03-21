@@ -1,5 +1,8 @@
 ![Frontend developer skills](https://www.amarinfotech.com/wp-content/uploads/2017/03/which-skill-requires-for-developer.jpg)
 
+![State of the JavaScript ecosystem in 2017](https://lh5.googleusercontent.com/WalI-kmOa2_4e2FyLH1K4eIIhoL1heXSS-vHC1nBR7hkuPsb4Dq-qu1WBh2qOJOFxMnaZ8Y1sU6D_PdClmyNeCt-U4hDpAYB5ld8ik8xBGLvMtZ1ntp9qvYErmK0PnPSk5GQO4du)
+[source](https://www.linux.com/blog/learn/2017/7/modern-day-front-end-development-stack)
+
 # Guidelines
 
 # Testing frameworks
