@@ -9,23 +9,28 @@
 - Phantom - 
 
 # Package managers
-- Npm - Node Package Manager
-- Yarn - is a superset of NPM that stores the exact versions of dependencies, installs packages in parallel
+- [Npm](https://www.npmjs.com) - Node Package Manager
+- [Yarn](https://yarnpkg.com) - is a superset of NPM that stores the exact versions of dependencies, installs packages in parallel
 
 # Version managers
 - Nvm - a Bash script
 - n - Node module, which can be installed by npm
 
 # Transpilers
-- Babel - converts new JS code into old ones
+- [Babel](https://babeljs.io) - converts new JS code into old ones
 
 # Bundlers
-- Webpack
+Module Bundling, on a high level, is a process of integrating together a group of modules in a single file so that multiple modules can be sent to the browser in a single bundle (which is good for performance but bad for debugging).
+- [Webpack](https://webpack.js.org) - a modular build tool 
+- [Parcel](https://parceljs.org/) - gives you “blazing fast” bundling as it uses multiple worker processes to ensure that the compilation process is executed in parallel on multiple cores without the need of any configuration
 
 # Development frameworks
 - Angular
 - ReactJS
 - Vuejs
+
+# IDEs
+- [Visual Studio Code](https://code.visualstudio.com/) - opensorced
 
 # Other
 - Redux https://redux.js.org/
@@ -37,3 +42,6 @@
 - Scss
 - Stylus
 - graphql
+
+# Terminology
+- Tree shaking - in javascript context, refers to dead code elimination
