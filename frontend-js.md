@@ -95,7 +95,7 @@ Source-to-source compilers, are tools that read source code written in one progr
 - [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich CSS language built for nodejs
 
 # Terminology
-- Polyfill is a type of shim that retrofits legacy browsers with modern HTML5/CSS3 features usually using Javascript or Flash.
+- Polyfill - type of shim that retrofits legacy browsers with modern HTML5/CSS3 features usually using Javascript or Flash.
 - Shim - any piece of code that performs interception of an API call and provides a layer of abstraction. It isn't necessarily restricted to a web application or HTML5/CSS3.
 - Tree shaking - in javascript context, refers to dead code elimination
 
