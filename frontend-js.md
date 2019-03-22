@@ -72,8 +72,8 @@ Module Bundling, on a high level, is a process of integrating together a group o
 ## Testing frameworks
 - [Chai](https://www.chaijs.com/) - open-source BDD / TDD assertion library for node and the browser that can be paired with any javascript testing framework
 - [Jest](https://jestjs.io/) - test framework, comes with built-in mocking and assertion abilities, runs your tests concurrently in parallel, providing a smoother, faster test run
-- [Headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) - tool for automated testing and server environments where you don't need a visible UI shell
 - [Jasmine](https://jasmine.github.io/)  - "batteries included" BDD test framework, does not require a DOM
+- [Headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) - tool for automated testing and server environments where you don't need a visible UI shell
 - [Karma](https://karma-runner.github.io/latest/index.html) - a browser test runner
 - [Mocha](https://mochajs.org/) - not a "complete" test framework, covers the basics and allows developers to extend it with other frameworks; running on Node.js and in the browser
 - [PhantomJS](http://phantomjs.org/)  - headless Web Kit used for automating web page interaction. 2018: ABANDONED
