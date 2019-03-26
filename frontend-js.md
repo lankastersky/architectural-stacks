@@ -92,7 +92,7 @@ Module Bundling, on a high level, is a process of integrating together a group o
 - [karma-spec-reporter](https://github.com/mlex/karma-spec-reporter#readme) - Test reporter that prints detailed results to console (similar to mocha's spec reporter).
 
 ## Transpilers
-Source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language
+Transpilers - Source-to-source compilers, tools that read source code written in one programming language, and produce the equivalent code in another language
 - [Babel](https://babeljs.io) - converts new JS code into old ones
 
 ## CSS libraries
