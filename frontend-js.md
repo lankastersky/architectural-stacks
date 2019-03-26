@@ -109,6 +109,7 @@ Transpilers - Source-to-source compilers, tools that read source code written in
 
 ## JavaScript
 - [Closure](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#3-closure) - inner function, that's accessible outside of its outer function's scope, with its connection to the outer function's variables still intact.
+  - [Closures are not complicated by T.J. Crowder, 2009](http://blog.niftysnippets.org/2008/02/closures-are-not-complicated.html)
 - [Curring](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#4-currying) - using multiple functions with single arguments, in place of a single function with multiple arguments
 - [Hoisting](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#5-hoisting) - default behavior of moving declarations to the top
 - [Mutation](https://gist.github.com/AllThingsSmitty/9a5463870d12c62fc33b#5-hoisting) - referring to the changes that DOM elements went through
