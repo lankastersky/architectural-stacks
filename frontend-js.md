@@ -8,7 +8,7 @@
   - [State managers](#state-managers)
   - [Testing frameworks](#testing-frameworks)
     - [Testing stacks](#testing-stacks)
-      - [Karma + Webpack](#karma-webpack)
+      - [Karma + Webpack](#karma--webpack)
   - [Transpilers](#transpilers)
 - [Package managers](#package-managers)
 - [Roadmaps](#roadmaps)
