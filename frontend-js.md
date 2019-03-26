@@ -86,9 +86,10 @@ Module Bundling, on a high level, is a process of integrating together a group o
 - [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - Headless Chrome, karma, mocha, chai
 
 #### Karma + Webpack
-- [istanbul](https://github.com/webpack-contrib/istanbul-instrumenter-loader) - Instrument JS files for subsequent code coverage reporting
-- [junit](https://github.com/karma-runner/karma-junit-reporter) - Reporter for the JUnit (JavaScript unit tests) XML format.
-- [htmlfile](https://github.com/matthias-schuetz/karma-htmlfile-reporter) - a karma plugin for exporting unit test results as styled HTML file
+- [istanbul-instrumenter-loader](https://github.com/webpack-contrib/istanbul-instrumenter-loader) - Instrument JS files for subsequent code coverage reporting
+- [karma-junit-reporter](https://github.com/karma-runner/karma-junit-reporter) - Reporter for the JUnit (JavaScript unit tests) XML format.
+- [karma-htmlfile-reporter](https://github.com/matthias-schuetz/karma-htmlfile-reporter) - a karma plugin for exporting unit test results as styled HTML file
+- [karma-spec-reporter](https://github.com/mlex/karma-spec-reporter#readme) - Test reporter that prints detailed results to console (similar to mocha's spec reporter).
 
 ## Transpilers
 Source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language
