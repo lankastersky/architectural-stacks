@@ -50,7 +50,7 @@
 
 # Build Tools (Bundlers)
 Module Bundling, on a high level, is a process of integrating together a group of modules in a single file so that multiple modules can be sent to the browser in a single bundle (which is good for performance but bad for debugging).
-- [Webpack](https://webpack.js.org) - a modular build tool 
+- [Webpack](https://webpack.js.org) - a modular build tool
 - [Parcel](https://parceljs.org/) - gives you “blazing fast” bundling as it uses multiple worker processes to ensure that the compilation process is executed in parallel on multiple cores without the need of any configuration
 
 # Development frameworks
@@ -61,8 +61,15 @@ Module Bundling, on a high level, is a process of integrating together a group o
 # IDEs
 - [Visual Studio Code](https://code.visualstudio.com/) - open sourced IDE supporting many languages. Built on top of Webkit
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+- [WebStorm](https://www.jetbrains.com/webstorm/)
 
 # Libraries
+
+## Module Loader
+A module loader is typically some library that can load, interpret and execute JavaScript modules you defined using a certain module format/syntax, such as AMD or CommonJS.
+- [SystemJS](https://github.com/systemjs/systemjs) - Configurable module loader enabling backwards compatibility workflows for ES modules in browsers.
+- [RequireJS](https://requirejs.org/) - is a JavaScript file and module loader.
+- [Browserify](http://browserify.org/) - Browserify lets you `require('modules')` in the browser by bundling up all of your dependencies.
 
 ## State managers
 - [Flux](https://facebook.github.io/flux/) - application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow
@@ -91,15 +98,34 @@ Module Bundling, on a high level, is a process of integrating together a group o
 - [karma-htmlfile-reporter](https://github.com/matthias-schuetz/karma-htmlfile-reporter) - a karma plugin for exporting unit test results as styled HTML file
 - [karma-spec-reporter](https://github.com/mlex/karma-spec-reporter#readme) - Test reporter that prints detailed results to console (similar to mocha's spec reporter).
 
+## Task runner
+Common tasks include things like watching file changes, concatenating/minifying files, prefixing files for different browsers, and linting Javascript.
+- [Gulp](https://gulpjs.com/)
+- [Grunt](https://gruntjs.com/)
+
 ## Transpilers
 Transpilers - Source-to-source compilers, tools that read source code written in one programming language, and produce the equivalent code in another language
 - [Babel](https://babeljs.io) - converts new JS code into old ones
+- [TypeScript](https://www.typescriptlang.org/index.html) - TypeScript is a superset of JavaScript that compiles to plain JavaScript.
 
-## CSS libraries
-- Flexbox - new layout mode in CSS3
+## CSS preprocessor
+CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax.
 - [Sass](https://sass-lang.com/) - CSS pre-processor with syntax advancements (older syntax)
 - Scss - CSS extension, preprocessor which lets you use features that aren’t a part of the wider CSS standard yet, and provides better workflows for maintaining your stylesheets
 - [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich CSS language built for nodejs
+
+## CSS Layout
+CSS page layout techniques allow us to take elements contained in a web page and control where they are positioned relative to their default position in normal layout flow, the other elements around them, their parent container, or the main viewport/window.
+- Normal flow
+- The `display` property
+- Floats
+- Positioning
+- Table layout
+- Multiple-column layout
+- Flexbox Layout - new layout mode in CSS3
+- Grid Layout
+
+[Reference](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
 
 # Terminology
 - CSS vendor prefixes (CSS browser prefixes) - a way for browser makers to add support for new CSS features before those features are fully supported in all browsers.
