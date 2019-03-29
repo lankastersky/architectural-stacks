@@ -1,14 +1,18 @@
-# TOC
+# Table of Contents
 - [Books](#books)
 - [Build tools (Bundlers)](#build-tools-bundlers)
 - [Development frameworks](#development-frameworks)
 - [Guidelines](#guidelines)
 - [IDEs](#ides)
 - [Libraries](#libraries)
+  - [CSS preprocessors](#css-preprocessors)
+  - [CSS layouts](#css-layouts)
+  - [Module loaders](#module-loaders)
   - [State managers](#state-managers)
   - [Testing frameworks](#testing-frameworks)
     - [Testing stacks](#testing-stacks)
       - [Karma + Webpack](#karma--webpack)
+  - [Task runners](#task-runners)
   - [Transpilers](#transpilers)
 - [Package managers](#package-managers)
 - [Roadmaps](#roadmaps)
@@ -65,7 +69,7 @@ Module Bundling, on a high level, is a process of integrating together a group o
 
 # Libraries
 
-## Module Loader
+## Module Loaders
 A module loader is typically some library that can load, interpret and execute JavaScript modules you defined using a certain module format/syntax, such as AMD or CommonJS.
 - [SystemJS](https://github.com/systemjs/systemjs) - Configurable module loader enabling backwards compatibility workflows for ES modules in browsers.
 - [RequireJS](https://requirejs.org/) - is a JavaScript file and module loader.
@@ -98,7 +102,7 @@ A module loader is typically some library that can load, interpret and execute J
 - [karma-htmlfile-reporter](https://github.com/matthias-schuetz/karma-htmlfile-reporter) - a karma plugin for exporting unit test results as styled HTML file
 - [karma-spec-reporter](https://github.com/mlex/karma-spec-reporter#readme) - Test reporter that prints detailed results to console (similar to mocha's spec reporter).
 
-## Task runner
+## Task runners
 Common tasks include things like watching file changes, concatenating/minifying files, prefixing files for different browsers, and linting Javascript.
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
@@ -108,13 +112,13 @@ Transpilers - Source-to-source compilers, tools that read source code written in
 - [Babel](https://babeljs.io) - converts new JS code into old ones
 - [TypeScript](https://www.typescriptlang.org/index.html) - TypeScript is a superset of JavaScript that compiles to plain JavaScript.
 
-## CSS preprocessor
+## CSS preprocessors
 CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax.
 - [Sass](https://sass-lang.com/) - CSS pre-processor with syntax advancements (older syntax)
 - Scss - CSS extension, preprocessor which lets you use features that aren’t a part of the wider CSS standard yet, and provides better workflows for maintaining your stylesheets
 - [Stylus](http://stylus-lang.com/) - Expressive, robust, feature-rich CSS language built for nodejs
 
-## CSS Layout
+## CSS Layouts
 CSS page layout techniques allow us to take elements contained in a web page and control where they are positioned relative to their default position in normal layout flow, the other elements around them, their parent container, or the main viewport/window.
 - Normal flow
 - The `display` property
