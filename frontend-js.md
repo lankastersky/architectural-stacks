@@ -9,7 +9,7 @@
   - [CSS layouts](#css-layouts)
   - [Module loaders](#module-loaders)
   - [State managers](#state-managers)
-  - [Testing frameworks](#testing-frameworks)
+  - [Testing](#testing)
     - [Testing stacks](#testing-stacks)
       - [Karma + Webpack](#karma--webpack)
   - [Task runners](#task-runners)
@@ -81,7 +81,7 @@ A module loader is typically some library that can load, interpret and execute J
 - [MobX](https://github.com/mobxjs/mobx) - Simple, scalable state management
 - [Vuex](https://vuex.vuejs.org/) - state management pattern + library for Vue.js applications
 
-## Testing frameworks
+## Testing
 - [Chai](https://www.chaijs.com/) - open-source BDD / TDD assertion library for node and the browser that can be paired with any javascript testing framework
 - [Jest](https://jestjs.io/) - test framework, comes with built-in mocking and assertion abilities, runs your tests concurrently in parallel, providing a smoother, faster test run
 - [Jasmine](https://jasmine.github.io/)  - "batteries included" BDD test framework, does not require a DOM
