@@ -1,16 +1,20 @@
 Contains cheat sheets of some architecture stacks I worked with or researched about. Allows you to quickly jump into an unfamiliar development area.
 
-## Each stack description contains (ideally):
+## Each stack description may contain:
+- Books
 - Code analyzers
 - Continuous Integration frameworks
 - Development frameworks
+- Guidelines
 - IDEs
-- Package managers
+- Libraries
+- Roadmaps
 - Terminology
-- Testing frameworks
 
 ## The backend stacks
 - [Common roadmaps](backend.md)
+- C++
+- C#
 - Java
 - Node.js
 - Python
@@ -18,7 +22,7 @@ Contains cheat sheets of some architecture stacks I worked with or researched ab
 - .Net
 
 ## The frontend stacks
-- Android
+- [Android](android.md)
 - [JavaScript](frontend-js.md)
 - iOS
 - Unity
