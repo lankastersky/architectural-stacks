@@ -7,7 +7,7 @@
   - [Testing](#testing)
     - [Unit Testing](#unit-testing)
     - [Mocking](#mocking)
-    - [Static Code Analysis](static-code-analysis)
+    - [Static Code Analysis](#static-code-analysis)
 - [Roadmaps](#roadmaps)
 - [Terminology](#terminology)
 
