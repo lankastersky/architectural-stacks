@@ -14,6 +14,10 @@
 - [Roadmaps](#roadmaps)
 - [Terminology](#terminology)
 
+# Roadmaps
+- https://github.com/tientnvn/android-developer-roadmap
+![Android development roadmap](https://github.com/tientnvn/android-developer-roadmap/blob/master/images/android_roadmap_v1.0.png)
+
 # Guidelines
 - [Android Design Guidelines](https://developer.android.com/design)
 
