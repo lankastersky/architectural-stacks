@@ -1,4 +1,4 @@
-Contains cheat sheets of some architecture stacks I worked with or researched about. Allows you to quickly jump into an unfamiliar development area.
+Contains cheat sheets of some architectural stacks I worked with or researched about. Allows you to quickly jump into an unfamiliar development area.
 
 ## Each stack description may contain:
 - Books
