@@ -1,6 +1,6 @@
 Contains cheat sheets of different architectural (techonological) stacks I worked with or researched about. Allows you to quickly jump into an unfamiliar development area or just have a list of all common components in one place.
 
-## Each stack description may contain:
+### Each stack description may contain:
 - Books
 - Code analyzers
 - Development frameworks
@@ -26,7 +26,7 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 - [iOS](ios.md)
 - Unity
 
-## Other stacks:
+## Other stacks
 - [DevOps](devops.md)
 - Machine Learning
 
