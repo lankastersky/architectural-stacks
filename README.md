@@ -3,11 +3,10 @@ Contains cheat sheets of some architectural stacks I worked with or researched a
 ## Each stack description may contain:
 - Books
 - Code analyzers
-- Continuous Integration frameworks
 - Development frameworks
 - Guidelines
 - IDEs
-- Libraries
+- Libraries and tools
 - Roadmaps
 - Terminology
 
