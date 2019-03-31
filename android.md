@@ -2,6 +2,8 @@
 - [Books](#books)
 - [Development frameworks](#development-frameworks)
 - [Guidelines](#guidelines)
+  - [Java](#java)
+  - [Kotlin](#kotlin)
 - [IDEs](#ides)
 - [Libraries](#libraries)
   - [Testing](#testing)
@@ -11,6 +13,17 @@
     - [Unit Testing](#unit-testing)
 - [Roadmaps](#roadmaps)
 - [Terminology](#terminology)
+
+# Guidelines
+- [Android Design Guidelines](https://developer.android.com/design)
+
+## Java
+- [Android Code Style Guidelines](https://source.android.com/setup/contribute/code-style)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- [Oracle Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html)
+
+## Kotlin
+- [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
 
 # Libraries
 
