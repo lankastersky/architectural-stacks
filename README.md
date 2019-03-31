@@ -24,7 +24,7 @@ Contains cheat sheets of some architectural stacks I worked with or researched a
 ## The frontend stacks
 - [Android](android.md)
 - [JavaScript](frontend-js.md)
-- iOS
+- [iOS](#ios)
 - Unity
 
 ## Other stacks:
