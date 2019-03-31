@@ -23,7 +23,7 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 ## The frontend stacks
 - [Android](android.md)
 - [JavaScript](frontend-js.md)
-- [iOS](#ios)
+- [iOS](ios.md)
 - Unity
 
 ## Other stacks:
