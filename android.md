@@ -32,6 +32,7 @@
 # Libraries
 
 ## Testing
+- [Test your app](https://developer.android.com/studio/test) with Android Studio
 
 ### Code Coverage
 - [SonarQube](https://www.sonarqube.org/)
