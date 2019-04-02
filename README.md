@@ -1,6 +1,6 @@
 Contains cheat sheets of different architectural (techonological) stacks I worked with or researched about. Allows you to quickly jump into an unfamiliar development area or just have a list of all common components in one place.
 
-### Each stack page may contain:
+Each stack page may contain:
 - Books
 - Code analyzers
 - Development frameworks
@@ -10,7 +10,7 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 - Roadmaps
 - Terminology
 
-## The backend stacks
+## Backend stacks
 - [Common](backend.md)
 - C++
 - C#
@@ -20,7 +20,7 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 - PHP
 - .Net
 
-## The frontend stacks
+## Frontend stacks
 - [JavaScript](frontend-js.md)
 
 ## Mobile app stacks
