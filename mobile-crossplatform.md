@@ -12,6 +12,17 @@ Table of Contents
 - Builds native apps for Android, iOS, and Windows
 - Uses Visual Studio C# for Windows or Mac
 - Xamarin SDKs, Xamarin.Forms, and Mono runtime are open source on GitHub
+- [Features](http://www.nexgendesign.com/xamarin-troubles)
+  - Push notifications sending.
+  - Ability to choose a UI layout at your convenience.
+  - OAuth integration.
+  - Remote REST APIs integrations.
+  - Beacons technology and real time signal processing for location apps.
+  - Inbuilt video streaming.
+  - Ability to integrate social networks (Facebook, Twitter).
+  - Xamarin framework has an embedded SQLite database.
+  - XMPP library that gives an opportunity to build a great variety of apps.
+- Not free (monthly fees per a license)
 ![Xamarin app’s layers](http://www.nexgendesign.com/wp-content/uploads/xamarin-forms-architecture-e1438001061974.png)
 
 [Xamarin app’s layers](http://www.nexgendesign.com/xamarin-troubles)
