@@ -11,6 +11,7 @@ Table of Contents
     - [Static Code Analysis](#static-code-analysis)
     - [Unit Testing](#unit-testing)
 - [Roadmaps](#roadmaps)
+- [Services](#services)
 - [Terminology](#terminology)
 
 # Roadmaps
@@ -35,3 +36,6 @@ Apple Xcode includes XCTest framework
 ### Static Code Analysis
  - [iOS Clang Static Analyser](http://clang-analyzer.llvm.org/) - source code analysis tool that finds bugs in C, C++, and Objective-C programs
  - [OCLint](http://oclint.org/) -  static code analysis tool for improving quality and reducing defects by inspecting C, C++ and Objective-C code
+
+# Services
+- [TestFlight](https://developer.apple.com/testflight/) - online service for over-the-air installation and testing of mobile applications, currently owned by Apple Inc and only offered to developers within the iOS Developer Program
