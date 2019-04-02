@@ -1,5 +1,5 @@
 # Table of Contents
-- [Cross-platform frameworks](#cross--platform-frameworks)
+- [Cross-platform frameworks](#cross-platform-frameworks)
   - [Flutter](#flutter-by-google)
   - [React Native](#react-native-by-facebook)
   - [Xamarin](#xamarin-by-microsoft)
@@ -16,7 +16,7 @@
 - Builds native mobile apps using JavaScript and React
 - https://github.com/facebook/react-native
   
-## [Flutter](https://flutter.dev/) - by Google 
+## [Flutter](https://flutter.dev/) by Google 
 - builds beautiful native apps on iOS and Android from a single codebase
 - Supported OS: Linux, Mac, Windows
 - Language: Dart
