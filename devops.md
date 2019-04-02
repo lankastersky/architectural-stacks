@@ -24,7 +24,7 @@ GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your c
 - Continuously deploy to any cloud (Microsoft Azure, Amazon Web Services, and Google Cloud Platform) or no-premises.
 - Works with [App Center](https://appcenter.ms/) to distribute mobile apps
 
-## [Nevercode](#https://nevercode.io/)
+## [Nevercode](https://nevercode.io/)
 Cloud-based continuous integration & delivery for iOS, Android, Cordova, Ionic, 
 React Native & Flutter projects
 - Used to distribute mobile apps
