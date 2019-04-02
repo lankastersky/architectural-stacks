@@ -20,6 +20,7 @@
 
 # Guidelines
 - [Android Design Guidelines](https://developer.android.com/design)
+- Why the app can be rejected on Play Store
 
 ## Java
 - [Android Code Style Guidelines](https://source.android.com/setup/contribute/code-style)
