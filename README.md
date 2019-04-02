@@ -11,7 +11,7 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 - Terminology
 
 ## The backend stacks
-- [Common roadmaps](backend.md)
+- [Common](backend.md)
 - C++
 - C#
 - Java
@@ -25,6 +25,7 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 - [JavaScript](frontend-js.md)
 - [iOS](ios.md)
 - Unity
+- [Cross-platform](frontend-crossplatform.md)
 
 ## Other stacks
 - [DevOps](devops.md)
