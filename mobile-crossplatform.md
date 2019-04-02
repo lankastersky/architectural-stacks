@@ -9,13 +9,16 @@ Table of Contents
 # Cross-platform frameworks
 
 ## [Xamarin](https://visualstudio.microsoft.com/xamarin/) by Microsoft
-- builds native apps for Android, iOS, and Windows
-- use Visual Studio C# for Windows or Mac
+- Builds native apps for Android, iOS, and Windows
+- Uses Visual Studio C# for Windows or Mac
 - Xamarin SDKs, Xamarin.Forms, and Mono runtime are open source on GitHub
+![Xamarin app’s layers](http://www.nexgendesign.com/wp-content/uploads/xamarin-forms-architecture-e1438001061974.png)
+
+[Xamarin app’s layers](http://www.nexgendesign.com/xamarin-troubles)
   
 ## [React Native](https://facebook.github.io/react-native/) by Facebook 
 - https://github.com/facebook/react-native
-- builds native apps on iOS and Android
+- Builds native apps on iOS and Android
 - React's declarative UI framework
 - Builds native mobile apps using JavaScript and React
 - Can call native code without too much trouble
@@ -29,7 +32,7 @@ Table of Contents
   
 ## [Flutter](https://flutter.dev/) by Google 
 - https://github.com/flutter/flutter
-- builds native apps on iOS and Android
+- Builds native apps on iOS and Android
 - Supported OS: Linux, Mac, Windows
 - Language: Dart
 - Plugins for Android Studio, IntelliJ IDEA, and VS Code
