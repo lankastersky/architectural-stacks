@@ -21,12 +21,15 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 - .Net
 
 ## The frontend stacks
-- [Android](android.md)
 - [JavaScript](frontend-js.md)
-- [iOS](ios.md)
-- [Cross-platform](frontend-crossplatform.md)
 
-## Other stacks
+## Mobile app stacks
+- [Android](android.md)
+- [iOS](ios.md)
+- [Cross-platform](mobile-crossplatform.md)
+- [Mobile backend](mobile-backend.md)
+
+## Specialized stacks
 - [DevOps](devops.md)
 - Machine Learning
 
