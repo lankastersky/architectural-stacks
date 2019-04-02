@@ -33,3 +33,9 @@ TestFairy is a mobile testing platform, providing companies with enterprise-grad
 - Authenticate your company employees with your corporate Single sign-on platform (SSO) such as Okta, ADFS, Google or Ping to easily enforce your company security policies.
 - Automatically update users Over The Air (OTA) with new versions of your mobile apps or revoke access for installed apps.
 - Customize TestFairy open source testers' app to allow your users a seamless branded corporate experience for downloading apps and reporting bugs.
+
+## [Appaloosa](https://www.appaloosa-store.com/?locale=en)
+mobile testing platform
+
+## [deploygate](https://deploygate.com/)
+mobile testing platform
