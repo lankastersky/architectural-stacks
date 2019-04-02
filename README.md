@@ -24,7 +24,6 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 - [Android](android.md)
 - [JavaScript](frontend-js.md)
 - [iOS](ios.md)
-- Unity
 - [Cross-platform](frontend-crossplatform.md)
 
 ## Other stacks
