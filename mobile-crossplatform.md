@@ -60,7 +60,9 @@ Table of Contents
 
 ## Cordova
 - built in Web Views
+
 ![Architcture](cordova-architecture.png)
+
 [source](https://www.slideshare.net/binary-studio/academy-pro-react-native-introduction)
 
 ## Appcelerator
