@@ -2,6 +2,9 @@
 
 Table of Contents
 - [Continuous Integration and Delivery](#continuous-integration-and-delivery)
+  - [Azure Devops](#azure-devops)
+  - [Bitrise](#bitrise)
+  - [Nevercode](#nevercode)
 - [Roadmaps](#roadmaps)
 
 # Roadmaps
@@ -15,8 +18,15 @@ Table of Contents
 ## [Gitlab CI](https://about.gitlab.com/product/continuous-integration/)
 GitLab has integrated CI/CD pipelines to build, test, deploy, and monitor your code
 
-## Nevercode
+## [Azure Devops](https://azure.microsoft.com/en-us/services/devops/)
+- cloud-based solution from Microsoft
+- Choose your language and use Pipelines cloud-hosted build agents for Linux, macOS, and Windows. 
+- Continuously deploy to any cloud (Microsoft Azure, Amazon Web Services, and Google Cloud Platform) or no-premises.
+- Works with [App Center](https://appcenter.ms/) to distribute mobile apps
 
-## App Center
+## [Nevercode](#https://nevercode.io/)
+Cloud-based continuous integration & delivery for iOS, Android, Cordova, Ionic, 
+React Native & Flutter projects
+- Used to distribute mobile apps
 
-## Bitrise
+## [Bitrise](https://www.bitrise.io/)
