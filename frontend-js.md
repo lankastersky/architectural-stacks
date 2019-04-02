@@ -76,6 +76,9 @@ A module loader is typically some library that can load, interpret and execute J
 - [Browserify](http://browserify.org/) - Browserify lets you `require('modules')` in the browser by bundling up all of your dependencies.
 
 ## State managers
+Two-way binding is really great but also very difficult to track what changed what and had the easy potential for performance issues. 
+
+[State management](https://en.wikipedia.org/wiki/State_management) refers to the management of the state of one or more user interface controls such as text fields, OK buttons, radio buttons, etc. in a graphical user interface. In this user interface programming technique, the state of one UI control depends on the state of other UI controls.
 - [Flux](https://facebook.github.io/flux/) - application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow
 - [Redux](https://redux.js.org/) - A predictable state container for JavaScript apps
 - [MobX](https://github.com/mobxjs/mobx) - Simple, scalable state management
