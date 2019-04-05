@@ -1,6 +1,7 @@
 # Java Script 
 
 Table of Contents
+- [Code Analysers](#code-analysers)
 - [Books](#books)
 - [Build tools (Bundlers)](#build-tools-bundlers)
 - [Development frameworks](#development-frameworks)
@@ -45,6 +46,8 @@ Table of Contents
 # Guidelines
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
+# Code Analysers
+- [SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS) - plugin for SonarQube
 
 # Package managers
 - [Npm](https://www.npmjs.com) - Node Package Manager
