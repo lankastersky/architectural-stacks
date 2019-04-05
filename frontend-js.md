@@ -44,7 +44,7 @@ Table of Contents
 - [The Complete JavaScript Reference by Powell, Thomas, Schneider, Fritz (2004)](https://www.amazon.com/JavaScript-Complete-Reference-Schneider-Paperback/dp/B011DBLJP4)
 
 # Guidelines
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [Google JavaScript Style Guide](https://www.sonarsource.com/products/codeanalyzers/sonarjs.html)
 
 # Code Analysers
 - [SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS) - plugin for SonarQube
