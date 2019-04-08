@@ -33,7 +33,7 @@ Each stack page may contain:
 - [DevOps](devops.md)
 
 ## Big Data
-- [IoT](#iot.md)
+- [IoT](iot.md)
 - Machine Learning
 
 
