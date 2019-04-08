@@ -20,5 +20,6 @@ Runs on a variety of systems, including the Raspberry Pi
 - inexpensive device that is easy to setup and experiment with. 
 - built using Python
 - connects to the Google Assistant or Cloud Speech-to-Text service
+- best results in speech recognition (when using with Google Assistant)
 - https://github.com/google/aiyprojects-raspbian/tree/aiyprojects/src/examples
 - https://github.com/google/voice-iot-maker-demo/
