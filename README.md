@@ -12,16 +12,15 @@ Each stack page may contain:
 
 ## Backend development
 - [Common](backend.md)
-- C++
-- C#
 - Java
-- Node.js
 - Python
-- PHP
+- C++
 - .Net
 
 ## Frontend development
 - [JavaScript](frontend-js.md)
+- Node.js
+- PHP
 
 ## Mobile app development
 - [Android](android.md)
