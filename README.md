@@ -34,6 +34,6 @@ Each stack page may contain:
 
 ## Big Data
 - [IoT](iot.md)
-- [Machine Learning](#machine-learning.md)
+- [Machine Learning](machine-learning.md)
 
 
