@@ -10,7 +10,7 @@ Each stack page may contain:
 - Roadmaps
 - Terminology
 
-## Backend stacks
+## Backend development
 - [Common](backend.md)
 - C++
 - C#
@@ -20,17 +20,20 @@ Each stack page may contain:
 - PHP
 - .Net
 
-## Frontend stacks
+## Frontend development
 - [JavaScript](frontend-js.md)
 
-## Mobile app stacks
+## Mobile app development
 - [Android](android.md)
 - [iOS](ios.md)
 - [Cross-platform](mobile-crossplatform.md)
 - [Mobile backend](mobile-backend.md)
 
-## Specialized stacks
+## Infrastructure
 - [DevOps](devops.md)
+
+## Big Data
+- [IoT](#iot.md)
 - Machine Learning
 
 
