@@ -22,8 +22,9 @@ Table of Contents
 ### Plugins
 - [20 Jenkins Plugins You Can’t Live Without, 2018](https://caylent.com/jenkins-plugins/)
 - [Cobertura](https://wiki.jenkins-ci.org/display/JENKINS/Cobertura+Plugin) for code coverage
-- [Gerrit trigger plugin](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger#GerritTrigger-SetUp) - installed as a presubmit hook for Gerrit (git service)
 - [Dashboard View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) - represents a summary information about all jobs (passes, tests etc.)
+- [Gerrit trigger plugin](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger#GerritTrigger-SetUp) - installed as a presubmit hook for Gerrit (git service)
+- [SonarQube](https://wiki.jenkins-ci.org/display/JENKINS/SonarQube+plugin) - integrate reporting from the SonarQube code quality/inspection platform
 
 ### Python stack
 https://jenkins.io/solutions/python/ 
@@ -32,8 +33,9 @@ https://jenkins.io/solutions/python/
 
 ### Java stack
 https://jenkins.io/solutions/java/
-- Maven and Gradle to build projects
-- JUnit for unit tests
+- [Gradle](https://wiki.jenkins-ci.org/display/JENKINS/Gradle+Plugin) to build projects - support invoking Gradle as a build step and listing executing tasks per build
+- [JUnit](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin) for unit tests - publishes JUnit XML formatted test reports for trending and analysis
+- Maven - supported in standard, you can use the dedicated step
 
 ## [Circle CI](https://circleci.com/)
 
