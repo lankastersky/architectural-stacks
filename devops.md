@@ -24,17 +24,18 @@ Table of Contents
 - [Cobertura](https://wiki.jenkins-ci.org/display/JENKINS/Cobertura+Plugin) for code coverage
 - [Dashboard View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) - represents a summary information about all jobs (passes, tests etc.)
 - [Gerrit trigger plugin](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger#GerritTrigger-SetUp) - installed as a presubmit hook for Gerrit (git service)
+- [JUnit](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin) for unit tests - publishes JUnit XML formatted test reports for trending and analysis
 - [SonarQube](https://wiki.jenkins-ci.org/display/JENKINS/SonarQube+plugin) - integrate reporting from the SonarQube code quality/inspection platform
 
 ### Python stack
 https://jenkins.io/solutions/python/ 
 - nose2 and pytest for executing unit tests
 - pylint for generating code quality reports
+- [Violations plugin](https://wiki.jenkins-ci.org/display/JENKINS/Violations) - processes output from pylint to provide style checks for Python code
 
 ### Java stack
 https://jenkins.io/solutions/java/
 - [Gradle](https://wiki.jenkins-ci.org/display/JENKINS/Gradle+Plugin) to build projects - support invoking Gradle as a build step and listing executing tasks per build
-- [JUnit](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin) for unit tests - publishes JUnit XML formatted test reports for trending and analysis
 - Maven - supported in standard, you can use the dedicated step
 
 ## [Circle CI](https://circleci.com/)
