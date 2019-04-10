@@ -13,7 +13,7 @@ Each stack page may contain:
 ## Backend development
 - [Common](backend.md)
 - Java
-- Python
+- [Python](python.md)
 - C++
 - .Net
 
