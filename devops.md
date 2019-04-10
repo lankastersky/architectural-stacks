@@ -4,6 +4,10 @@ Table of Contents
 - [Continuous Integration and Delivery](#continuous-integration-and-delivery)
   - [Azure Devops](#azure-devops)
   - [Bitrise](#bitrise)
+  - [Jenkins](#jenkins)
+    - [Plugins](#plugins)
+    - [Java stack](#java-stack)
+    - [Python stack](#python-stack)
   - [Nevercode](#nevercode)
 - [Roadmaps](#roadmaps)
 
@@ -12,6 +16,24 @@ Table of Contents
 [source, 2017](https://codeforgeek.com/2017/04/become-valuable-full-stack-developer/)
 
 # Continuous Integration and Delivery
+
+## [Jenkins](https://jenkins.io/)
+
+### Plugins
+- [20 Jenkins Plugins You Can’t Live Without, 2018](https://caylent.com/jenkins-plugins/)
+- [Cobertura](https://wiki.jenkins-ci.org/display/JENKINS/Cobertura+Plugin) for code coverage
+- [Gerrit trigger plugin](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger#GerritTrigger-SetUp) - installed as a presubmit hook for Gerrit (git service)
+- [Dashboard View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) - represents a summary information about all jobs (passes, tests etc.)
+
+### Python stack
+https://jenkins.io/solutions/python/ 
+- nose2 and pytest for executing unit tests
+- pylint for generating code quality reports
+
+### Java stack
+https://jenkins.io/solutions/java/
+- Maven and Gradle to build projects
+- JUnit for unit tests
 
 ## [Circle CI](https://circleci.com/)
 
