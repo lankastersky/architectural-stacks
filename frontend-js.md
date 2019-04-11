@@ -47,6 +47,22 @@ Table of Contents
 - [Google JavaScript Style Guide](https://www.sonarsource.com/products/codeanalyzers/sonarjs.html)
 
 # Code Analysers
+- [JavaScript Linting Tools Comparison, 2017](https://codeburst.io/javascript-linting-tools-comparison-ebcb4aa23c49)
+- [ES Lint](https://github.com/eslint/eslint)
+  - Pros
+    - Completely configurable — we can configure/enable/disable any rule
+    - Extensible — We can create our own rules
+    - Has a rich set of existing rules as per best practices
+    - Completely supports ES6 and React
+    - Easy to understand output with rule names
+    - Rules are very well documented with examples
+    - Configured through a configuration file (json/yaml/js) — Easy to share configuration across team members
+    - Easy integration with IDE
+  - Cons
+    - Needs initial configuration to get started
+    - A bit slow
+- [JS Hint](http://jshint.com/about/)
+- [JS Lint](http://www.jslint.com/help.html)
 - [SonarJS](https://docs.sonarqube.org/display/PLUG/SonarJS) - plugin for SonarQube
 
 # Package managers
