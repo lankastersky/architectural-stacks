@@ -7,6 +7,11 @@ Table of Contents
 - [Development frameworks](#development-frameworks)
 - [Guidelines](#guidelines)
 - [IDEs](#ides)
+- [Languages that compile to JavaScript](#languages-that-compile-to-javascript]
+  - [ClojureScript](#clojurescript)
+  - [CoffeeScript](#coffeescript)
+  - [Elm](#elm)
+  - [TypeScript](typescript)
 - [Libraries](#libraries)
   - [CSS preprocessors](#css-preprocessors)
   - [CSS layouts](#css-layouts)
@@ -155,10 +160,29 @@ CSS page layout techniques allow us to take elements contained in a web page and
 
 [Reference](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
 
+# [Languages that compile to JavaScript](https://molily.de/robust-javascript/#languages-that-compile-to-javascript)
+
+## [ClojureScript](https://clojurescript.org/)
+A compile-to-JavaScript language derived from [Clojure](https://clojure.org/), an independent, well-established language. It embraces functional programming with optional type safety. Clojure code is typically compiled to bytecode running on the Java virtual machine.
+
+## [CoffeeScript](http://coffeescript.org/)
+Was one of the first widely-used languages that compile to JavaScript. Its syntax is very familiar to JavaScript. CoffeeScript’s motto is “It is just JavaScript”. It mostly provides “syntactic sugar” that makes writing common JavaScript idioms easier.
+
+## Elm 
+A functional programming language that compiles to JavaScript. In contrast to Clojure/ClojureScript it was specifically designed as a compile-to-JavaScript language. It is not a general-purpose programming language, it is a toolkit for developing client-side web applications.
+
+## [TypeScript](https://www.typescriptlang.org/)
+An ambitious effort by Microsoft to create a language that compiles to JavaScript by extending standard ECMAScript.
+
+As the name suggests, TypeScript adds static typing to JavaScript. It comes with well-known ways to define types, like classes, interfaces, unions and generics.
+
 # Terminology
 - CSS vendor prefixes (CSS browser prefixes) - a way for browser makers to add support for new CSS features before those features are fully supported in all browsers.
+- Linter - a program that checks code for potential errors and compatibility issues. 
 - Polyfill - type of shim that retrofits legacy browsers with modern HTML5/CSS3 features usually using Javascript or Flash.
 - Shim - any piece of code that performs interception of an API call and provides a layer of abstraction. It isn't necessarily restricted to a web application or HTML5/CSS3.
+- [Sloppy Mode](https://developer.mozilla.org/en-US/docs/Glossary/Sloppy_mode) - the normal, non-strict mode of JavaScript.
+- [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) -  way to opt in to a restricted variant of JavaScript, thereby implicitly opting-out of "sloppy mode".
 - Tree shaking - in javascript context, refers to dead code elimination
 
 ## JavaScript
