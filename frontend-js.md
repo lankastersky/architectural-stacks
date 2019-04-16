@@ -7,11 +7,11 @@ Table of Contents
 - [Development frameworks](#development-frameworks)
 - [Guidelines](#guidelines)
 - [IDEs](#ides)
-- [Languages that compile to JavaScript](#languages-that-compile-to-javascript]
+- [Languages that compile to JavaScript](#languages-that-compile-to-javascript)
   - [ClojureScript](#clojurescript)
   - [CoffeeScript](#coffeescript)
   - [Elm](#elm)
-  - [TypeScript](typescript)
+  - [TypeScript](#typescript)
 - [Libraries](#libraries)
   - [CSS preprocessors](#css-preprocessors)
   - [CSS layouts](#css-layouts)
