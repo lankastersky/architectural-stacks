@@ -42,6 +42,7 @@ Table of Contents
 ![Frontend developer skills](https://www.amarinfotech.com/wp-content/uploads/2017/03/which-skill-requires-for-developer.jpg)
 
 # Books
+- [Robust Client-Side JavaScript by Mathias Schäfer, 2017](https://molily.de/robust-javascript/) - A Developer’s Guide about why JavaScript might fail and how to prevent or handle these errors in a graceful way that ensures a working website.
 - [Effective JavaScript by by David Herman, 2012](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
 - [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/) - free
 - [JavaScript: The Definitive Guide by David Flanagan, 2011](https://books.google.com/books?id=4RChxt67lvwC&lpg=PR1&dq=javascript%20the%20definitive%20guide&pg=PR1#v=onepage&q&f=false)
