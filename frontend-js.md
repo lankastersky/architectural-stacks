@@ -1,4 +1,4 @@
-# Java Script 
+# Java Script + HTML + CSS
 
 Table of Contents
 - [Code Analysers](#code-analysers)
@@ -51,9 +51,11 @@ Table of Contents
 
 # Guidelines
 - [Google JavaScript Style Guide](https://www.sonarsource.com/products/codeanalyzers/sonarjs.html)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
 # Code Analysers
 - [JavaScript Linting Tools Comparison, 2017](https://codeburst.io/javascript-linting-tools-comparison-ebcb4aa23c49)
+- http://csslint.net/
 - [ES Lint](https://github.com/eslint/eslint)
   - Pros
     - Completely configurable — we can configure/enable/disable any rule
