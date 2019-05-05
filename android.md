@@ -10,6 +10,7 @@ Table of Contents
 - [Libraries](#libraries)
   - [HTTP Libraries](#http-libraries)
   - [Image Loading Libraries](#image-loading-libraries)
+  - [JSON Parsing Libraries](#json-parsing-libraries)
   - [Testing](#testing)
     - [Code Coverage](#code-coverage)
     - [Mocking](#mocking)
@@ -83,3 +84,15 @@ Glide 	    | Yes	| Good | Good
 imageloader	| No	| Good | Average
 Picasso	    | Yes	| Average |	Average (Javadoc)
 
+## JSON Parsing Libraries
+GSON and Jackson are complete JSON parsers:
+- Generate JSON data
+- Data binding (Primitive data types, Maps, Lists and Objects)
+- Support Stream (SAX like but not event-based) and Tree (DOM like) parsing techniques
+- Support annotations
+
+### Components Comparison
+Component | Usage and Integration | Performance for Small/Large Data Size | Parser Customization | Plugins | Supported by Network libs 
+---|---|---|---|---|---
+GSON	  | Easy   | Fast / Medium | Basic | No  | Yes (Most of them)
+Jackson |	Medium | Medium / Fast | Yes	 | Yes | No (Limited number)
