@@ -12,6 +12,7 @@ Table of Contents
   - [HTTP Libraries](#http-libraries)
   - [Image Loading Libraries](#image-loading-libraries)
   - [JSON Parsing Libraries](#json-parsing-libraries)
+  - [NoSql Databases](#nosql-databases)
   - [ORM Libraries](#orm-libraries)
   - [Testing](#testing)
     - [Code Coverage](#code-coverage)
@@ -107,3 +108,10 @@ Jackson |	Medium | Medium / Fast | Yes	 | Yes | No (Limited number)
 - [Room from Google](https://developer.android.com/topic/libraries/architecture/room) - provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
 - OrmLite - provides excellent functionality and wide set of features.
 
+## NoSql Databases
+- Realm is a modern NoSql framework. 
+  - It uses its own persistence engine, built for simplicity (& speed).
+  - Rich functionality (that increasing very fast) 
+  - Excellent possibilities for customization.
+- Firebase Database
+- Firebase Firestore
