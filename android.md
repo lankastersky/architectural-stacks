@@ -16,6 +16,7 @@ Table of Contents
   - [NoSql Databases](#nosql-databases)
   - [ORM Libraries](#orm-libraries)
   - [Testing](#testing)
+    - [Automation](#automation)
     - [Code Coverage](#code-coverage)
     - [Mocking](#mocking)
     - [Static Code Analysis](#static-code-analysis)
@@ -71,6 +72,20 @@ robolectric	| no                    |	Best	| Good	  | no
 ### Static Code Analysis
 - [Android Lint](https://developer.android.com/studio/write/lint#overview)
 - [SonarQube](https://www.sonarqube.org/) (cross-platform)
+
+### Automation
+Appium is very flexible and stable framework. Prefer this framework to create good architecture and work with web, native and hybrid apps
+
+#### Components Comparison
+Component | Native Apps Support | Hybrid Apps Support | Web Apps Support | Starts the Emulator | Supported Languages | Supported Platforms | Documentation Quality
+---|---|---|---|---|---|---|---
+Appium      | Yes	| Yes	| Yes	| Yes	| Java, Objective–C, JavaScript with Node.js , PHP, Python, Ruby, C#, Clojure, or Perl	| iOS, Android, FirefoxOS	| Good
+Calabash	  | Yes	| Yes	| No	| No	| Ruby + Plain text	| iOS, Android	| Average 
+Espresso    | Yes	| No	| No	| Yes	| Java	            | Android	      | Average
+MonkeyTalk	| Yes	| Yes	| No	| No	| Java or Javascript, native language	| iOS, Android	| Average
+Robotium	  | Yes	| Yes	| No	| Yes	| Java	            | Android	      | Good
+Selendroid  |	Yes	| Yes	| Yes	| Yes	| Java, Objective–C, JavaScript with Node.js , PHP, Python, Ruby, C#, Clojure, or Perl | 	Android	| Good
+UIAutomator |	Yes	| No	| No	| No	| Java	            | Android	      | Good
 
 ## HTTP Libraries
 - OkHTTP - best as a General purpose HTTP library (allows to perform generic HTTP requests: select an HTTP method, build headers and a request body). It provides a variety of features and is deeply customizable.
