@@ -49,6 +49,23 @@ Table of Contents
 - [SonarQube](https://www.sonarqube.org/)
 - [Cobertura](https://github.com/cobertura/cobertura)
 - [Emma](http://emma.sourceforge.net/)
+- Jacoco 
+  - Can be run with Ant and Gradle.
+  - Has well formatted and detailed html reports.
+  - Easy to integrate with Robolectric.
+  
+#### Components Comparison
+- Coverage Types – which types of code coverage tool suports (line/class/method/block/statement/branch).
+- Ease of use – how easy to configure and work with it (easy/ not easy).
+- Access to the source code – whether a tool requires source code to generate code coverage (yes/no).
+- Defined in Android SDK – whether a tool is in Android SDK (yes/no) .
+
+Component | Pricing | Report Types | Coverage Types | Ease of Use | Access to the source code | Defined in Android SDK | Documentation Quality
+---|---|---|---|---|---|---|---
+Clover	  | paid	      | xml, html, pdf, json	| line, statement, branch, method	| not easy | yes | no  | good
+Cobertura	| free	      | html, xml	            | line, statement, branch, method | not easy | yes | no	 | no
+Emma	    | open source	| html, xml, plain text | line, block, method, class      | easy	   | no  | yes |average
+Jacoco	  | free        | xml, html, csv        | line, method, branch, class	    | easy     | yes | no	 | average
 
 ### Unit Testing
 - JUnit - Android native test suite
