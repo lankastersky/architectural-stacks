@@ -9,6 +9,7 @@ Table of Contents
 - [IDEs](#ides)
 - [Libraries](#libraries)
   - [Crash Reporting Libraries](#crash-reporting-libraries)
+  - [Dependency Injection Libraries](#dependency-injection-libraries)
   - [HTTP Libraries](#http-libraries)
   - [Image Loading Libraries](#image-loading-libraries)
   - [JSON Parsing Libraries](#json-parsing-libraries)
@@ -115,3 +116,24 @@ Jackson |	Medium | Medium / Fast | Yes	 | Yes | No (Limited number)
   - Excellent possibilities for customization.
 - Firebase Database
 - Firebase Firestore
+
+## Dependency Injection Libraries
+Dagger - high quality functional DI framework.
+
+### Components Comparison
+Criteria:
+- Functionality – richness of functionality and possibilities for customization (good/average/bad).
+- Overhead – how large does become a project when using the library and how does this affect application memory(small/medium/large). 
+- Android injections – whether the framework supports Android platform specific features e.g. view injections, resource injections. (yes/no).
+- Injections mode – whether the framework works at runtime or at compile time(runtime/compile). 
+- Documentation quality – how good a tool and its features are documented (good/average/bad).
+
+Component | Functionality | Overhead | Android injections | Injections mode | Documentation quality
+---|---|---|---|---|---
+AndroidAnnotations	| Good  	| Medium	| Yes	| Compile	| Good
+Dagger	            | Average	| Medium	| No	| Compile	| Good
+RoboGuice	          | Good	  | Large 	| Yes	| Runtime	| Average
+Transfuse	          | Good	  | Medium	| Yes	| Compile	| Average
+
+
+
