@@ -12,6 +12,7 @@ Table of Contents
   - [HTTP Libraries](#http-libraries)
   - [Image Loading Libraries](#image-loading-libraries)
   - [JSON Parsing Libraries](#json-parsing-libraries)
+  - [ORM Libraries](#orm-libraries)
   - [Testing](#testing)
     - [Code Coverage](#code-coverage)
     - [Mocking](#mocking)
@@ -100,3 +101,9 @@ Jackson |	Medium | Medium / Fast | Yes	 | Yes | No (Limited number)
 
 ## Crash Reporting Libraries
 - Crashlytics - free full-featured crash reporting tool. Integrated with [Firebase](https://firebase.google.com/docs/crash/android).
+
+## ORM Libraries
+- ORM is Object-Relational Mapping here.
+- [Room from Google](https://developer.android.com/topic/libraries/architecture/room) - provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
+- OrmLite - provides excellent functionality and wide set of features.
+
