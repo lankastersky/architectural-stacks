@@ -53,9 +53,20 @@ Table of Contents
 - JUnit - Android native test suite
 
 ### Mocking
+- Robolectric
+  - allows for tests to be run in the JVM instead of the DVM by replacing the native Android calls with proxies.  
+  - one of the most TDD-suitable testing frameworks
 - [Mockito](https://code.google.com/archive/p/mockito/) 
 - [EasyMock](http://easymock.org/)
 - [PowerMock](https://github.com/powermock/powermock)
+
+#### Components Comparison
+Component | Running on Device | Performance | Documentation Quality | final/static support
+---|---|---|---|---
+easymock	  | yes (with extention)	| Good	| Average	| no
+mockito	    | yes (with extention)	| Good	| Good	  | no
+powermock   |	no	                  | Good	| Average	| yes
+robolectric	| no                    |	Best	| Good	  | no
 
 ### Static Code Analysis
 - [Android Lint](https://developer.android.com/studio/write/lint#overview)
