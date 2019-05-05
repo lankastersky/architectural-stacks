@@ -9,6 +9,7 @@ Table of Contents
 - [IDEs](#ides)
 - [Libraries](#libraries)
   - [HTTP Libraries](#http-libraries)
+  - [Image Loading Libraries](#image-loading-libraries)
   - [Testing](#testing)
     - [Code Coverage](#code-coverage)
     - [Mocking](#mocking)
@@ -68,3 +69,17 @@ OkHTTP	           | Good	| Yes	| Yes	| No | Average | No
 Retrofit	         | Good | Yes | Yes	| No | Average | Yes
 Spring for Android | Good	| Yes	| No  |Yes (OAuth, Twitter, Facebook) | Good | Yes
 Volley	           | Good	| No	| Yes	| Yes | Average | Yes
+
+## Image Loading Libraries
+- Glide or Picasso are the best to download and put the image in the app, you don't need a lot of configuration and they can work with almost every popular image format. You can also add listeners and callbacks easy.
+- Glide has the best to download and apply some effects, it's build to give better appareance when showing the image and to work better with lists of items.
+- Fresco is best to load different formats and customize the download process. Supports GIF, WebP and animated WebP. Glide can also work with GIF.
+
+### Components Comparison
+Component | Support of External HTTP Clients | Set of Transformations | Documentation Quality
+---|---|---|---
+Fresco      | Yes |	Good | Good
+Glide 	    | Yes	| Good | Good
+imageloader	| No	| Good | Average
+Picasso	    | Yes	| Average |	Average (Javadoc)
+
