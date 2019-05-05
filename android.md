@@ -8,6 +8,7 @@ Table of Contents
   - [Kotlin](#kotlin)
 - [IDEs](#ides)
 - [Libraries](#libraries)
+  - [Crash Reporting Libraries](#crash-reporting-libraries)
   - [HTTP Libraries](#http-libraries)
   - [Image Loading Libraries](#image-loading-libraries)
   - [JSON Parsing Libraries](#json-parsing-libraries)
@@ -96,3 +97,6 @@ Component | Usage and Integration | Performance for Small/Large Data Size | Pars
 ---|---|---|---|---|---
 GSON	  | Easy   | Fast / Medium | Basic | No  | Yes (Most of them)
 Jackson |	Medium | Medium / Fast | Yes	 | Yes | No (Limited number)
+
+## Crash Reporting Libraries
+- Crashlytics - free full-featured crash reporting tool. Integrated with [Firebase](https://firebase.google.com/docs/crash/android).
