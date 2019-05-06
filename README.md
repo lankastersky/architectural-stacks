@@ -10,6 +10,9 @@ Each stack page may contain:
 - Roadmaps
 - Terminology
 
+## Common
+- [Design And Prototyping](design.md)
+
 ## Backend development
 - [Common](backend.md)
 - Java
