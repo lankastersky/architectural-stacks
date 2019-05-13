@@ -6,6 +6,7 @@ Table of Contents
 - [Guidelines](#guidelines)
 - [IDEs](#ides)
 - [Libraries](#libraries)
+  - [Crash Reporting Libraries](#crash-reporting-libraries)
   - [HTTP Libraries](#http-libraries)
   - [Testing](#testing)
     - [Mocking](#mocking)
@@ -25,6 +26,9 @@ Table of Contents
 # Guidelines
 
 # Libraries
+
+## Crash Reporting Libraries
+- Crashlytics - free full-featured crash reporting tool. Integrated with [Firebase](https://firebase.google.com/docs/crashlytics/get-started).
 
 ## HTTP Libraries
 RestKit works in most cases. But if you do not need any of the RestKit cool features and look for something simple, then use AFNetworking.
