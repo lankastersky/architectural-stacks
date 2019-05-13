@@ -6,6 +6,7 @@ Table of Contents
 - [Guidelines](#guidelines)
 - [IDEs](#ides)
 - [Libraries](#libraries)
+  - [HTTP Libraries](#http-libraries)
   - [Testing](#testing)
     - [Mocking](#mocking)
     - [Static Code Analysis](#static-code-analysis)
@@ -24,6 +25,17 @@ Table of Contents
 # Guidelines
 
 # Libraries
+
+## HTTP Libraries
+RestKit works in most cases. But if you do not need any of the RestKit cool features and look for something simple, then use AFNetworking.
+
+### Components Comparison
+Component |	Functionality | Supports Code Data Persistence | Short Familiarization Time
+---|---|---|---
+AFIncrementalStore  | Good | Yes | Yes
+AFNetworking        | Good | No  | Yes
+MKNetworkKit        | Good | No  | No
+RestKit             | Excellent | Yes | No
 
 ## Testing
 
