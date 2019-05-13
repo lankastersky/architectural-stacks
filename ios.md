@@ -9,6 +9,7 @@ Table of Contents
   - [Application Performance Management Libraries](#application-performance-management-libraries)
   - [Crash Reporting Libraries](#crash-reporting-libraries)
   - [HTTP Libraries](#http-libraries)
+  - [Logging Libraries](#logging-libraries)
   - [Testing](#testing)
     - [Mocking](#mocking)
     - [Static Code Analysis](#static-code-analysis)
@@ -48,6 +49,10 @@ AFIncrementalStore  | Good | Yes | Yes
 AFNetworking        | Good | No  | Yes
 MKNetworkKit        | Good | No  | No
 RestKit             | Excellent | Yes | No
+
+## Logging Libraries
+Objective-C: CocoaLumberjack.
+Swift: XCGLogger.
 
 ## Testing
 
