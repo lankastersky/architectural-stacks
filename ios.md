@@ -6,6 +6,7 @@ Table of Contents
 - [Guidelines](#guidelines)
 - [IDEs](#ides)
 - [Libraries](#libraries)
+  - [Application Performance Management Libraries](#application-performance-management-libraries)
   - [Crash Reporting Libraries](#crash-reporting-libraries)
   - [HTTP Libraries](#http-libraries)
   - [Testing](#testing)
@@ -26,6 +27,13 @@ Table of Contents
 # Guidelines
 
 # Libraries
+
+## Application Performance Management Libraries
+[New Relic](http://newrelic.com/) - the richness of functionality, user experience and code-level performance insights are great.
+- Pricing - free for 24hr data retention.
+- Popular component: yes.
+- Large community and a lot of contributors: yes (paid service).
+- Use cases: end-to-end, NPM, EUEM, crash reporting, analytics, SaaS only.
 
 ## Crash Reporting Libraries
 - Crashlytics - free full-featured crash reporting tool. Integrated with [Firebase](https://firebase.google.com/docs/crashlytics/get-started).
