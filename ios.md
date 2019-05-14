@@ -61,6 +61,18 @@ Apple Xcode includes XCTest framework
 
 ### Mocking
 - [OCMock](http://ocmock.org/) - Mock objects for Objective-C
+- [Kiwi](https://github.com/kiwi-bdd/Kiwi/releases/tag/2.3.0) - not only a mocking library but a complete Behavior Driven Development (BDD) oriented testing framework based on XCTest. Mocking is just a part of the framework. It also includes very powerful & organic way to specify expectations.
+
+### Components comparison
+- Syntax - If the syntax is familiar to the Objective-C developers, nice and compact (good/average/bad);
+- Documentation quality - How full and convenient the Documentation is (good/average/bad);
+- BDD support - If the framework supports Behavior Driven Development (BDD) paradigm (yes/no);
+
+Component | Syntax | Docs quality | BDD Support
+---|---|---|---
+Kiwi	  | Good | Good | Yes
+OCMock	| Bad	 | Good	| No
+OCMokito|	Average	| Bad | No
 
 ### Static Code Analysis
  - [iOS Clang Static Analyser](http://clang-analyzer.llvm.org/) - source code analysis tool that finds bugs in C, C++, and Objective-C programs
