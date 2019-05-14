@@ -10,32 +10,25 @@ Each stack page may contain:
 - Roadmaps
 - Terminology
 
-## Common
+## Table of Contents
+- Backend development
+  - [Common](backend.md)
+  - Java
+  - [Python](python.md)
+  - C++
+  - .Net
 - [Design And Prototyping](design.md)
-
-## Backend development
-- [Common](backend.md)
-- Java
-- [Python](python.md)
-- C++
-- .Net
-
-## Frontend development
-- [JavaScript](frontend-js.md)
-- Node.js
-- PHP
-
-## Mobile app development
-- [Android](android.md)
-- [iOS](ios.md)
-- [Cross-platform](mobile-crossplatform.md)
-- [Mobile backend](mobile-backend.md)
-
-## Infrastructure
 - [DevOps](devops.md)
-
-## Big Data
+- Frontend development
+  - [JavaScript](frontend-js.md)
+  - Node.js
+  - PHP
 - [IoT](iot.md)
 - [Machine Learning](machine-learning.md)
+- Mobile app development
+  - [Android](android.md)
+  - [iOS](ios.md)
+  - [Cross-platform](mobile-crossplatform.md)
+  - [Mobile backend](mobile-backend.md)
 
 
