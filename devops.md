@@ -15,6 +15,10 @@ Table of Contents
 ![DevOps technologies](https://i0.wp.com/codeforgeek.com/wp-content/uploads/2017/04/devops-tools.png?resize=768%2C999&ssl=1)
 [source, 2017](https://codeforgeek.com/2017/04/become-valuable-full-stack-developer/)
 
+![pipeline1](https://github.com/lankastersky/architectural-stacks/blob/master/devops-pipeline1.png)
+![pipeline2](https://github.com/lankastersky/architectural-stacks/blob/master/devops-pipeline2.png)
+from Andriy Trubitsyn
+
 # Continuous Integration and Delivery
 
 ## [Jenkins](https://jenkins.io/)
@@ -27,9 +31,6 @@ Table of Contents
 - [JUnit](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin) for unit tests - publishes JUnit XML formatted test reports for trending and analysis
 - [SonarQube](https://wiki.jenkins-ci.org/display/JENKINS/SonarQube+plugin) - integrate reporting from the SonarQube code quality/inspection platform
 - [Warnings Next Generation Plugin](https://wiki.jenkins.io/display/JENKINS/Warnings+Next+Generation+Plugin) - collects compiler warnings or issues reported by static analysis tools and visualizes the results. Makes the following Jenkins plugins obsolete: Android Lint, CheckStyle, Dry, FindBugs, PMD, Warnings, Static Analysis Utilities, Static Analysis Collector Plugins, Task Scanner, etc. 
-
-
-
 
 ### Python stack
 https://jenkins.io/solutions/python/ 
