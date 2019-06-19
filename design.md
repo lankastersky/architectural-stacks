@@ -3,6 +3,7 @@
 Table of Contents
 - [Diagramming Tools](#diagramming-tools)
 - [Prototyping Tools](#prototyping-tools)
+- [WYSIWYG editors](#wysiwyg-editors)
 
 # Prototyping Tools
 - Invision – tool for fast prototyping and easy sharing with customer and team.
@@ -65,3 +66,8 @@ You also can use the following tools:
   - BPMN diagrams
   - IT4IT reference architecture diagrams
   - Lean Methodology diagrams
+
+## WYSIWYG editors
+
+### Web
+- [google web designer](https://webdesigner.withgoogle.com/?_ga=2.151747004.489974671.1560877142-2136453168.1542123630)
