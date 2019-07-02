@@ -87,7 +87,8 @@ Module Bundling, on a high level, is a process of integrating together a group o
 - [Parcel](https://parceljs.org/) - gives you “blazing fast” bundling as it uses multiple worker processes to ensure that the compilation process is executed in parallel on multiple cores without the need of any configuration
 
 # Development frameworks
-- Angular
+- Angular - uses TypeScript
+- [AngularJS](https://docs.angularjs.org/guide) - previous version of Angular, uses JavaScript
 - ReactJS
 - Vuejs
 
