@@ -100,10 +100,9 @@ Module Bundling, on a high level, is a process of integrating together a group o
 
 # Libraries
 ## Beautifiers
-[js-beautify](https://github.com/beautify-web/js-beautify)
-[typescript-formatter](https://www.npmjs.com/package/typescript-formatter)
-https://prettier.io/
-- Works with many tools (JavaScript, HTML, CSS, GraphQL, markdown, yaml etc.)
+- [js-beautify](https://github.com/beautify-web/js-beautify)
+- [typescript-formatter](https://www.npmjs.com/package/typescript-formatter)
+- https://prettier.io/ - Works with many tools (JavaScript, HTML, CSS, GraphQL, markdown, yaml etc.)
   - JavaScript
   - JSX
   - Flow
