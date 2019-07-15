@@ -13,6 +13,7 @@ Table of Contents
   - [Elm](#elm)
   - [TypeScript](#typescript)
 - [Libraries](#libraries)
+  - [Beautifiers](#beautifiers)
   - [CSS preprocessors](#css-preprocessors)
   - [CSS layouts](#css-layouts)
   - [Module loaders](#module-loaders)
@@ -98,6 +99,16 @@ Module Bundling, on a high level, is a process of integrating together a group o
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 
 # Libraries
+## Beautifiers
+[js-beautify](https://github.com/beautify-web/js-beautify)
+[typescript-formatter](https://www.npmjs.com/package/typescript-formatter)
+https://prettier.io/
+- Works with many tools (JavaScript, HTML, CSS, GraphQL, markdown, yaml etc.)
+  - JavaScript
+  - JSX
+  - Flow
+  - TypeScript
+  - JSON
 
 ## Module Loaders
 A module loader is typically some library that can load, interpret and execute JavaScript modules you defined using a certain module format/syntax, such as AMD or CommonJS.
