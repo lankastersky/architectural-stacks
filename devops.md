@@ -25,12 +25,19 @@ from Andriy Trubitsyn
 
 ### Plugins
 - [20 Jenkins Plugins You Can’t Live Without, 2018](https://caylent.com/jenkins-plugins/)
-- [Cobertura](https://wiki.jenkins-ci.org/display/JENKINS/Cobertura+Plugin) for code coverage
+- [Cobertura](https://wiki.jenkins-ci.org/display/JENKINS/Cobertura+Plugin) - integrates Cobertura coverage reports to Jenkins.
+- [Code Coverage API](https://plugins.jenkins.io/code-coverage-api) - serves as API to integrate and publish multiple coverage report types.
 - [Dashboard View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) - represents a summary information about all jobs (passes, tests etc.)
-- [Gerrit trigger plugin](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger#GerritTrigger-SetUp) - installed as a presubmit hook for Gerrit (git service)
+- [Environment Injector](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) - makes it possible to set an environment for the builds.
+- [Gerrit trigger](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger#GerritTrigger-SetUp) - installed as a presubmit hook for Gerrit (git service)
+- [Job Configuration History](https://wiki.jenkins.io/display/JENKINS/JobConfigHistory+Plugin) - Job history plugin for Jenkins.
 - [JUnit](https://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin) for unit tests - publishes JUnit XML formatted test reports for trending and analysis
 - [SonarQube](https://wiki.jenkins-ci.org/display/JENKINS/SonarQube+plugin) - integrate reporting from the SonarQube code quality/inspection platform
 - [Warnings Next Generation Plugin](https://wiki.jenkins.io/display/JENKINS/Warnings+Next+Generation+Plugin) - collects compiler warnings or issues reported by static analysis tools and visualizes the results. Makes the following Jenkins plugins obsolete: Android Lint, CheckStyle, Dry, FindBugs, PMD, Warnings, Static Analysis Utilities, Static Analysis Collector Plugins, Task Scanner, etc. 
+
+Android-specific:
+- [Google Play Android Publisher Plugin](https://github.com/jenkinsci/google-play-android-publisher-plugin) - Enables Jenkins to upload Android apps (APK files) to Google Play and to manage related info.
+- [Android Lint Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Android+Lint+Plugin) - parses Android Lint analysis results and visualises the issues found.
 
 ### Python stack
 https://jenkins.io/solutions/python/ 
