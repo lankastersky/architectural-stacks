@@ -138,6 +138,7 @@ Two-way binding is really great but also very difficult to track what changed wh
 
 ### Testing stacks
 - [Automated testing with Headless Chrome](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - Headless Chrome, karma, mocha, chai
+- [AngularJS unit testing](https://docs.angularjs.org/guide/unit-testing) - AngularJS, Karma, Jasmine
 
 #### Karma + Webpack
 - [istanbul-instrumenter-loader](https://github.com/webpack-contrib/istanbul-instrumenter-loader) - Instrument JS files for subsequent code coverage reporting
