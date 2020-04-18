@@ -2,7 +2,6 @@ Contains cheat sheets of different architectural (techonological) stacks I worke
 
 Each stack page may contain:
 - Books
-- Code analyzers
 - Development frameworks
 - Guidelines
 - IDEs
