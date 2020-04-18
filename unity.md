@@ -2,10 +2,10 @@
 
 Table of Contents
 - [Books](#books)
-- [Development frameworks](#development-frameworks)
 - [Guidelines](#guidelines)
 - [Libraries](#libraries)
-- [Online courses](#online-cources)
+  - [AR](#ar)
+- [Online courses](#online-courses)
 - [Roadmaps](#roadmaps)
 - [Terminology](#terminology)
 
@@ -16,6 +16,22 @@ Table of Contents
 # Guidelines
 - https://learn.unity.com/
 - https://docs.unity3d.com/Manual/index.html
+
+# Libraries
+- https://developers.google.com/unity
+- https://github.com/playgameservices/play-games-plugin-for-unity
+
+## AR
+### AR Core
+- https://github.com/google-ar/arcore-unity-sdk
+- https://github.com/google-ar/arcore-unity-extensions
+
+Articles
+- [Creating AR Experiences for I/O: Our Process, 2018](https://developers.googleblog.com/2018/05/creating-ar-experiences-for-io-our.html)
+
+Examples
+- https://github.com/googlesamples/arcore-illusive-images
+- https://github.com/googlesamples/arcore-lightboard
 
 # Online courses
 - [Udemy by Penny de Byl](https://www.udemy.com/user/holistic3d/)
