@@ -16,6 +16,7 @@ Table of Contents
 
 # Guidelines
 - https://learn.unity.com/
+- [Google C# Developer's Guide](https://g3doc.corp.google.com/eng/doc/devguide/csharp/external-csharp-style.md?cl=head)
 - [7 Ways to Keep Your Unity Project Organized](https://blog.theknightsofunity.com/7-ways-keep-unity-project-organized/)
 
 # Libraries
