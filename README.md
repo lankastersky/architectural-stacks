@@ -21,6 +21,8 @@ Each stack page may contain:
   - [JavaScript](frontend-js.md)
   - Node.js
   - PHP
+- [Game development](gamedev.md)
+  - [Unity](unity.md)
 - [IoT](iot.md)
 - [Machine Learning](machine-learning.md)
 - Mobile app development
@@ -28,5 +30,3 @@ Each stack page may contain:
   - [iOS](ios.md)
   - [Cross-platform](mobile-crossplatform.md)
   - [Mobile backend](mobile-backend.md)
-- [Game development](gamedev.md)
-  - [Unity](unity.md)
