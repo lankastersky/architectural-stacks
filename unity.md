@@ -10,12 +10,13 @@ Table of Contents
 - [Terminology](#terminology)
 
 # Books
+- https://docs.unity3d.com/Manual/index.html
 - [Holistic Game Development with Unity 3e: An All-in-One Guide to Implementing Game Mechanics, Art, Design and Programming 3rd Edition, 2019](https://www.amazon.com/Holistic-Game-Development-Unity-All/dp/1138480622) by Penny de Byl
 - [Holistic Mobile Game Development with Unity, 2015](https://www.amazon.com/Holistic-Mobile-Game-Development-Unity-ebook/dp/B00LPK9F28) by Penny de Byl
 
 # Guidelines
 - https://learn.unity.com/
-- https://docs.unity3d.com/Manual/index.html
+- [7 Ways to Keep Your Unity Project Organized](https://blog.theknightsofunity.com/7-ways-keep-unity-project-organized/)
 
 # Libraries
 - https://developers.google.com/unity
