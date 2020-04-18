@@ -11,8 +11,7 @@ Each stack page may contain:
 - Terminology
 
 ## Table of Contents
-- Backend development
-  - [Common](backend.md)
+- [Backend development](backend.md)
   - Java
   - [Python](python.md)
   - C++
@@ -30,5 +29,5 @@ Each stack page may contain:
   - [iOS](ios.md)
   - [Cross-platform](mobile-crossplatform.md)
   - [Mobile backend](mobile-backend.md)
-- Game development
+- [Game development](gamedev.md)
   - [Unity](unity.md)
