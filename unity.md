@@ -38,7 +38,5 @@ Examples
 - [Udemy by Penny de Byl](https://www.udemy.com/user/holistic3d/)
 
 # Terminology
-- baked texture
-- drawcall
-- [texture atlas](https://en.wikipedia.org/wiki/Texture_atlas)
+
 
