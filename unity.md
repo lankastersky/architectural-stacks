@@ -53,6 +53,8 @@ Examples
 
 ## Non-official
 - [Udemy by Penny de Byl](https://www.udemy.com/user/holistic3d/)
+- [Holistic3d youtube channel](https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg)
+- [Develop and Publish Flappy Bird in 3 Hours With Unity3D](https://www.youtube.com/watch?v=A-GkNM8M5p8&list=LLxbnJTFTZhshwjTwBRfCorQ&index=11&t=763s) (video)
 
 # Terminology
 
