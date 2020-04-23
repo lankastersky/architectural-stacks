@@ -5,6 +5,7 @@ Table of Contents
 - [Guidelines](#guidelines)
 - [Libraries](#libraries)
   - [AR](#ar)
+  - [Design](#design)
 - [Online courses](#online-courses)
 - [Roadmaps](#roadmaps)
 - [Terminology](#terminology)
@@ -35,7 +36,22 @@ Examples
 - https://github.com/googlesamples/arcore-illusive-images
 - https://github.com/googlesamples/arcore-lightboard
 
+## Design
+- [ProBuilder](https://unity3d.com/unity/features/worldbuilding/probuilder) - hybrid of 3D modeling and level design tools, optimized for building simple geometry but capable of detailed editing and UV unwrapping
+- [Progrids](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html) - Grid snapping keeps objects aligned and evenly spaced
+- [Polybrush](https://unity3d.com/unity/features/worldbuilding/polybrush) - blend textures and colors, sculpt meshes, and scatter objects in the Unity Editor
+
 # Online courses
+## Official
+- [Beginner Design: Unity Game Development Course](https://learn.unity.com/course/beginner-design-unity-game-development-course)
+- [Intermediate Design: Unity Game Development Course](https://learn.unity.com/course/intermediate-design-unity-game-development-course)
+- [Advanced Design: Unity Game Development Course](https://learn.unity.com/course/advanced-design-unity-game-development-course)
+- [Beginner Programming: Unity Game Dev Course](https://learn.unity.com/course/unity-game-dev-course-programming-part-1)
+- [Intermediate Programming: Unity Game Dev Courses](https://learn.unity.com/course/unity-game-dev-courses-programming-part-2)
+- [Advanced Programming: Unity Game Dev Course](https://learn.unity.com/course/unity-game-dev-courses-programming-part-3)
+- [Tanks tutorial from Unity, 2105](https://learn.unity.com/project/tanks-tutorial) - create a 2 player (1 keyboard) shooter game. You'll learn about simple game mechanics, integrating world and screen space UI, as well as game architecture and audio mixing
+
+## Non-official
 - [Udemy by Penny de Byl](https://www.udemy.com/user/holistic3d/)
 
 # Terminology
