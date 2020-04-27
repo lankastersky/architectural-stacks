@@ -14,6 +14,9 @@ Free
 - Threedscans.com - free database of 3d scans
 - Artec3d - free 3D scans from Artec
 - 3dwarehouse - free Google SketchUp models (SketchUp format only)
+- https://www.textures.com - free textures
+- https://cpetry.github.io/NormalMap-Online/ - normal maps generator
+
 
 Paid
 - Turbosquid - 3D models store
