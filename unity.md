@@ -40,6 +40,7 @@ Examples
 - [ProBuilder](https://unity3d.com/unity/features/worldbuilding/probuilder) - hybrid of 3D modeling and level design tools, optimized for building simple geometry but capable of detailed editing and UV unwrapping
 - [Progrids](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html) - Grid snapping keeps objects aligned and evenly spaced
 - [Polybrush](https://unity3d.com/unity/features/worldbuilding/polybrush) - blend textures and colors, sculpt meshes, and scatter objects in the Unity Editor
+- [TextMesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html) - text formatting and layout with features like character, word, line and paragraph spacing, kerning, justified text, Links, over 30 Rich Text Tags available, support for Multi Font & Sprites, Custom Styles and more
 
 # Online courses
 ## Official
